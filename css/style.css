@@ -25,7 +25,7 @@
 } */
 body {
   /* background-image: url(../Co/Home-Page/istockphoto-1211526766-612x612.jpg); */
-    background-image: url(../../Cosmically-Me/Home-Page/istockphoto-1211526766-612x612.jpg);
+    background-image: url(../src/istockphoto-1211526766-612x612.jpg);
     /* background:#000; */
     overflow: hidden;
 }
