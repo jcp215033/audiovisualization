@@ -5,7 +5,7 @@
  * Please consider supporting this project on behance:
  * https://www.behance.net/gallery/49260123/Web-Audio-Visualization
  */
-@keyframes hue {
+/* @keyframes hue {
   0% {
     filter: hue-rotate(0deg);
     -webkit-filter: hue-rotate(0deg);
@@ -15,16 +15,18 @@
     filter: hue-rotate(-360deg);
     -webkit-filter: hue-rotate(-360deg);
   }
-}
-#freq {
+} */
+/* #freq {
     background: linear-gradient(#ff0088, red);
     position: absolute; 
     left: 0;
     right: 0;
     margin: 0 auto;
-}
+} */
 body {
-    background:#000;
+  /* background-image: url(../Co/Home-Page/istockphoto-1211526766-612x612.jpg); */
+    background-image: url(../../Cosmically-Me/Home-Page/istockphoto-1211526766-612x612.jpg);
+    /* background:#000; */
     overflow: hidden;
 }
 #freq.animateHue, body.animateHue {
